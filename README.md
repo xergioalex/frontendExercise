@@ -5,13 +5,22 @@ In this exercise you will have build a responsive site navigation.
 * It must be developed using only css, js & HTML 5.
 * No frameworks or libraries (e.g. Bootstrap, jQuery, Angular, React...).
 * Nav menu must be responsive.
+* Items in nav menu should be load via javascript from the json object in **"resources/data/menu.js"**
 
-### Nice to haves:
+### Nice to haves
 * The code must be clear and legible.
 * Documentation.
 
+### Resources
+You can find in **"resources"** folder all what you need to complete this test:
+* **asssets**: All images what you need include in responsive site navigation.
+* **data**: A json with nav menu items to be loaded via javascript.
+* **typography**: Site fonts.
+* **wireframes**: These will guide how the site should look like.
+
+
 ## Design Specifications
-The site will have two main states, Desktop and Mobile; these will be shown in the folder wireframes, any detail about measurements, colors or actions that no be especificate in wireframes or below, should be asumed.
+The site will have two main states, Desktop and Mobile; these will be shown in the folder **resources/wireframes**, any detail about measurements, colors or actions that no be especificate in wireframes or below, should be asumed.
 
 ##### General
 * The background must be fixed in center of screen, cover all content, and it should not be deformed on screen resize.
@@ -34,3 +43,4 @@ The site will have two main states, Desktop and Mobile; these will be shown in t
     * The menu should “pull” from right to left with ease animation all content.
     * Translucent mask appears over content.
     * On click in translucent mask or close button in responsive menu, should "pull" from left to right with ease animation all content, and the translucent mask should be hidden.
+* Scroll bar should appear on responsive menu only when menu items exceed the height of the screen.

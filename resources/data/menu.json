@@ -1,0 +1,70 @@
+{
+   "items":[
+      {
+         "label":"Buscar Empleo",
+         "url":"/buscar-empleo",
+         "items":[
+            {
+               "label":"Categoría",
+               "url":"/categoria"
+            },
+            {
+               "label":"País",
+               "url":"/pais"
+            },
+            {
+               "label":"Empresa",
+               "url":"/empresa"
+            },
+            {
+               "label":"Fecha de publicación",
+               "url":"/fecha-de-publicacion"
+            },
+            {
+               "label":"Salario",
+               "url":"/salario"
+            },
+            {
+               "label":"Disponibilidad",
+               "url":"/disponibilidad"
+            }
+         ]
+      },
+      {
+         "label":"Destacados",
+         "url":"#/careers",
+         "items":[
+            {
+               "label":"RockaLabs",
+               "url":"/rockalabs"
+            },
+            {
+               "label":"Parmalat",
+               "url":"/Parmalat"
+            },
+            {
+               "label":"Mobil",
+               "url":"/mobil"
+            },
+            {
+               "label":"Ecopetrol",
+               "url":"/ecopetrol"
+            },
+         ]
+      },
+      {
+         "label":"Convocatorias",
+         "url":"#/ideas",
+         "items":[
+
+         ]
+      },
+      {
+         "label":"Reclutados",
+         "url":"/reclutatos",
+         "items":[
+
+         ]
+      },
+   ]
+}
