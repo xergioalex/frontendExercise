@@ -2,12 +2,13 @@
 In this exercise you will have build a responsive site navigation.
 
 ## Here are the guidelines for this exercise
-* It must be developed using only css, js & HTML 5.
+* It must be developed using only css (you can use less, sass...), javascript & HTML 5.
 * No frameworks or libraries (e.g. Bootstrap, jQuery, Angular, React...).
 * Nav menu must be responsive.
-* Items in nav menu should be load via javascript from the json object in **"resources/data/menu.js"**
+* Items in nav menu should be load using javascript getting the json object in **"resources/data/menu.js"** via http request.
 
 ### Nice to haves
+* Object-oriented programming (OOP)
 * The code must be clear and legible.
 * Documentation.
 
